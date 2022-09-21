@@ -1,6 +1,8 @@
 # BottomSheetDialogNavigation
 Android. Навигация внутри Bottom Sheet Dialog
 
+<img src="https://miro.medium.com/max/4800/1*XnawZiq25THOcnChkeJWqA.png" />
+
 Более подробно описано тут:
 https://medium.com/@azatserzhan/bottom-sheet-dialog-navigation-746cc2b2ba0f
 
